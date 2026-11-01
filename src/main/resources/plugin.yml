@@ -1,0 +1,6 @@
+name: WardenPet
+main: nfx.wardenpet.WardenPet
+version: 1.0
+api-version: '26.1'
+author: NFX
+description: Tameable Warden pet (Java + Geyser/Bedrock friendly)
